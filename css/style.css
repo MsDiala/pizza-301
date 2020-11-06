@@ -1,0 +1,128 @@
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+      width : 70%;
+      margin: auto auto;
+    }
+    main h1{font-family: 'Ultra', serif;
+    
+    }
+    main p{
+      font-size: 15px;
+      color: rgb(180, 176, 176);
+      margin-top: -15px;
+    }
+    header div p{
+      font-family: 'Dancing Script', cursive;
+      font-size:30px;
+      font-weight:bolder;
+     }
+     header div span{
+       color: rgb(201, 193, 193);
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-size: 10px;
+     
+     }
+     #print{
+       float: right;
+       color: gray;
+       margin-top: -50px;
+       margin-right: 170px;
+     }
+    main section p{
+      text-indent: 30px;
+      color: rgb(107, 103, 103);
+      width: 950px;
+    }
+     
+     header ul li{
+       display:inline-block ;
+     }
+  
+     header div ul{
+         float:right;
+         margin-top: -75px;
+         margin-right: 200px;
+     }
+  
+  
+    .button{
+      
+        background-color: rgb(153, 42, 42);
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        margin-top: -60px;
+        margin-left:700px ;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        cursor: pointer;
+        float: left;
+      }
+      #vene{
+        color: rgb(87, 85, 85);
+      }
+     #pizza{
+         width: 20px;
+        margin-bottom: 100px;
+     }
+  
+      footer div{
+      clear: both;
+      }
+      footer div{
+       float: left;
+      }
+      article{
+        color: gray;
+        padding-right:400px;
+        padding-left:400px;
+  
+      }
+    
+      #footer{ padding-left: 50%;
+        padding-right: 50%;
+  
+      }
+      #end{
+        text-indent: 30px;
+      }
+   footer #left-image{
+     float:left;
+   }
+   footer p{
+     clear: both;
+   }
+   header div p img{
+     float: left;
+  
+  }
+  .list1{
+    float: left;
+    position: absolute;
+    top: 45px;
+    left: 50px;
+    list-style-type: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(114, 110, 110);
+    font-size: 15px;
+  }
+  .list2{
+    float: left;
+    position:absolute;
+    top: 45px;
+    left: 400px;
+    list-style-type: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(114, 110, 110);
+    font-size: 15px;
+  }
+  .background-list{  position: relative;
+  
+  }
+  
+  
